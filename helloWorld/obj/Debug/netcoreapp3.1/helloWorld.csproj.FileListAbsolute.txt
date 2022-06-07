@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C#/helloWorld/bin/Debug/netcoreapp3.1/helloWorld
+/Users/JM/greenFox/C#/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.deps.json
+/Users/JM/greenFox/C#/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.json
+/Users/JM/greenFox/C#/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.dev.json
+/Users/JM/greenFox/C#/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.dll
+/Users/JM/greenFox/C#/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.pdb
+/Users/JM/greenFox/C#/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C#/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C#/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C#/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfo.cs
+/Users/JM/greenFox/C#/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C#/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.dll
+/Users/JM/greenFox/C#/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.pdb
+/Users/JM/greenFox/C#/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.genruntimeconfig.cache
