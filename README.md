@@ -23,7 +23,7 @@ parameter
 - How to Pass argument by value, ref and out
 
 
-## OOPS – Concepts
+## OOPs – Concepts
 
 - Introduction to OOPS and its priciples
 - What is a class
@@ -65,7 +65,7 @@ parameter
 - What is a system.object class
 - What are the methods in the object class
 
-## OOPS - Interface and Polymorphism
+## OOPs - Interface and Polymorphism
 
 - What is an interface
 - How does multiple inheritance is working with interfaces
@@ -184,7 +184,7 @@ parameter
 - How to write Provider independent code
 - What is utility class
 
-## - ADO.NET Part2 - DataSet Object Model
+## ADO.NET Part2 - DataSet Object Model
 
 - What are DataAdapter events
 - How to handle Concurrency issues if multiple users performing operations on same Data
