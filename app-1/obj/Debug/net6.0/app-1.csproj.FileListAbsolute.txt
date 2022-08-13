@@ -1,0 +1,15 @@
+/Users/JM/greenFox/C-Sharp/app-1/bin/Debug/net6.0/app-1
+/Users/JM/greenFox/C-Sharp/app-1/bin/Debug/net6.0/app-1.deps.json
+/Users/JM/greenFox/C-Sharp/app-1/bin/Debug/net6.0/app-1.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/app-1/bin/Debug/net6.0/app-1.dll
+/Users/JM/greenFox/C-Sharp/app-1/bin/Debug/net6.0/app-1.pdb
+/Users/JM/greenFox/C-Sharp/app-1/obj/Debug/net6.0/app-1.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/app-1/obj/Debug/net6.0/app-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/app-1/obj/Debug/net6.0/app-1.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/app-1/obj/Debug/net6.0/app-1.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/app-1/obj/Debug/net6.0/app-1.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/app-1/obj/Debug/net6.0/app-1.dll
+/Users/JM/greenFox/C-Sharp/app-1/obj/Debug/net6.0/refint/app-1.dll
+/Users/JM/greenFox/C-Sharp/app-1/obj/Debug/net6.0/app-1.pdb
+/Users/JM/greenFox/C-Sharp/app-1/obj/Debug/net6.0/app-1.genruntimeconfig.cache
+/Users/JM/greenFox/C-Sharp/app-1/obj/Debug/net6.0/ref/app-1.dll

@@ -1,0 +1,15 @@
+/Users/JM/greenFox/C-Sharp/consoleApp2/bin/Debug/net6.0/consoleApp2
+/Users/JM/greenFox/C-Sharp/consoleApp2/bin/Debug/net6.0/consoleApp2.deps.json
+/Users/JM/greenFox/C-Sharp/consoleApp2/bin/Debug/net6.0/consoleApp2.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/consoleApp2/bin/Debug/net6.0/consoleApp2.dll
+/Users/JM/greenFox/C-Sharp/consoleApp2/bin/Debug/net6.0/consoleApp2.pdb
+/Users/JM/greenFox/C-Sharp/consoleApp2/obj/Debug/net6.0/consoleApp2.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/consoleApp2/obj/Debug/net6.0/consoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/consoleApp2/obj/Debug/net6.0/consoleApp2.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/consoleApp2/obj/Debug/net6.0/consoleApp2.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/consoleApp2/obj/Debug/net6.0/consoleApp2.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/consoleApp2/obj/Debug/net6.0/consoleApp2.dll
+/Users/JM/greenFox/C-Sharp/consoleApp2/obj/Debug/net6.0/refint/consoleApp2.dll
+/Users/JM/greenFox/C-Sharp/consoleApp2/obj/Debug/net6.0/consoleApp2.pdb
+/Users/JM/greenFox/C-Sharp/consoleApp2/obj/Debug/net6.0/consoleApp2.genruntimeconfig.cache
+/Users/JM/greenFox/C-Sharp/consoleApp2/obj/Debug/net6.0/ref/consoleApp2.dll
