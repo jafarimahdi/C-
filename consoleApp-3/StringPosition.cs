@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace consoleApp_3
+namespace consoleApp_1
 {
     public class StringPosition
     {

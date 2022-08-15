@@ -4,7 +4,7 @@ using System.Text;
 using System.Linq;
 using System.Threading;
 
-namespace consoleApp_3
+namespace consoleApp_1
 {
     class Program
     {
@@ -32,7 +32,7 @@ namespace consoleApp_3
                 int posY = random.Next(1, 15);
 
                 // check the repetation
-                if(!list1.Any(t => t.PosY == posY && (t.PosStartX <= posX && posX <= t.PosEndX )))
+                if(!list1.Any(t => (t.PosY == posY) && (t.PosStartX <= posX && posX <= t.PosEndX )))
                 { 
 
                 // save positions in the list
@@ -59,8 +59,6 @@ namespace consoleApp_3
                 Thread.Sleep(200);
                  i++;
                 }
-
-
             }
 
 
@@ -69,7 +67,6 @@ namespace consoleApp_3
             {
                 Console.WriteLine(item.ToString());
             }
-
         }
 
 
