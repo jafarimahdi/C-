@@ -21,10 +21,8 @@ namespace consoleApp_3
                     return ConsoleColor.Magenta;
                 case 5:
                     return ConsoleColor.Yellow;
-                case 6:
-                    return ConsoleColor.Cyan;
                 default:
-                    return ConsoleColor.White;
+                    return ConsoleColor.Cyan;       
             }
         }
 
