@@ -1,15 +1,10 @@
 ﻿<Properties StartupConfiguration="{4F750127-A094-46D8-BAF0-7BA0AE0F310D}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
-    <Files>
-      <File FileName="Program.cs" Line="8" Column="2" />
-      <File FileName="EmptyClass.cs" Line="24" Column="25" />
-      <File FileName="StringPosition.cs" Line="25" Column="2" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="consoleApp-3" expanded="True" selected="True" />
+          <Node name="consoleApp-3" expanded="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
