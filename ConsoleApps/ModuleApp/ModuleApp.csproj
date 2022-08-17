@@ -8,9 +8,11 @@
   <ItemGroup>
     <None Remove="Models\" />
     <None Remove="Repository\" />
+    <None Remove="ConsoleUI\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Repository\" />
+    <Folder Include="ConsoleUI\" />
   </ItemGroup>
 </Project>
