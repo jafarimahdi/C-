@@ -15,12 +15,12 @@ namespace ModuleApp.Repository
             users.Add(new User()
             {
                 UserId = 1,
-                UserName="admin",
-                Password="123",
-                MobileNumber="03244284668",
-                Email ="Mahdijafari.mj@gmail.com",
-                IsActive=true,
-                UserRole=Role.Admin,
+                UserName = "admin",
+                Password = "123",
+                MobileNumber = "03244284668",
+                Email = "Mahdijafari.mj@gmail.com",
+                IsActive = true,
+                UserRole = Role.Admin,
 
             });
 
@@ -35,8 +35,8 @@ namespace ModuleApp.Repository
 
         public void DeleteUser(int userId)
         {
-           var user = users.FirstOrDefault(t => t.UserId == userId);
-            if(user != null)
+            var user = users.FirstOrDefault(t => t.UserId == userId && t.UserRole != Role.Admin);
+            if (user != null)
             {
                 users.Remove(user);
                 Console.Write("user has been deleted ");
@@ -60,7 +60,31 @@ namespace ModuleApp.Repository
 
         public bool Login(string userName, string password)
         {
-           return users.Any(t => t.UserName.Equals(userName) && t.Password.Equals(password));
+            return users.Any(t => t.UserName.Equals(userName) && t.Password.Equals(password));
+        }
+
+        public User GetUser(string userName, string password)
+        {
+            return users.FirstOrDefault(t => t.UserName.Equals(userName) && t.Password.Equals(password));
+        }
+
+        public int GetNewId()
+        {
+            return users.Last().UserId + 1;
+        }
+
+        public bool EditProfile(User user)
+        {
+            try
+            {
+
+                return true;
+            }
+            catch (Exception)
+            {
+
+                return false;
+            }
         }
     }
 }

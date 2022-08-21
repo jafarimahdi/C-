@@ -14,7 +14,7 @@ namespace ModuleApp.Models
 
         public override string ToString()
         {
-            return string.Format("ReportId: {0}\t\t Date: {1}\t\t UserId: {2}\n ReportText: {3}",ReportId,ReportDate,UserId,ReportText);
+            return string.Format("ReportId: {0}\t\t Date: {1}\t\t UserId: {2}\n ReportText: {3}", ReportId, ReportDate, UserId, ReportText);
         }
     }
 }

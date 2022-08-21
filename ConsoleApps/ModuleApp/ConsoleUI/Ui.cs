@@ -32,9 +32,9 @@ namespace ModuleApp.ConsoleUI
         {
             Console.Clear();
             Console.WriteLine("---------------------Employee Panel-----------------------");
-            Console.WriteLine("1 ) Register Report ");
-            Console.WriteLine("2 ) --------- ");
-            Console.WriteLine("3 ) --------- ");
+            Console.WriteLine("1 ) Register Report ... ");
+            Console.WriteLine("2 ) Show all Reports.. ");
+            Console.WriteLine("3 ) Edit Profile ... ");
             Console.WriteLine("4 ) Back To Main Menu ");
             Console.WriteLine("Enter Command Number ");
             return Convert.ToInt32(Console.ReadLine());

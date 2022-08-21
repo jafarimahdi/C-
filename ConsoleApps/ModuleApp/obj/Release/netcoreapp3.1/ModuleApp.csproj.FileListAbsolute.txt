@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/bin/Release/netcoreapp3.1/ModuleApp
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/bin/Release/netcoreapp3.1/ModuleApp.deps.json
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/bin/Release/netcoreapp3.1/ModuleApp.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/bin/Release/netcoreapp3.1/ModuleApp.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/bin/Release/netcoreapp3.1/ModuleApp.dll
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/bin/Release/netcoreapp3.1/ModuleApp.pdb
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/obj/Release/netcoreapp3.1/ModuleApp.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/obj/Release/netcoreapp3.1/ModuleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/obj/Release/netcoreapp3.1/ModuleApp.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/obj/Release/netcoreapp3.1/ModuleApp.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/obj/Release/netcoreapp3.1/ModuleApp.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/obj/Release/netcoreapp3.1/ModuleApp.dll
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/obj/Release/netcoreapp3.1/ModuleApp.pdb
+/Users/JM/greenFox/C-Sharp/ConsoleApps/ModuleApp/obj/Release/netcoreapp3.1/ModuleApp.genruntimeconfig.cache

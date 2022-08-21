@@ -1,19 +1,28 @@
 ﻿<Properties StartupConfiguration="{2DC886C0-15B7-4A5B-832A-3345638328B3}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.ModuleApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Repository/ReportRepository.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ModuleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Repository/UserRepository.cs" Line="66" Column="1" />
-      <File FileName="Models/User.cs" Line="23" Column="43" />
-      <File FileName="Repository/ReportRepository.cs" Line="4" Column="12" />
+      <File FileName="Repository/UserRepository.cs" Line="79" Column="14" />
+      <File FileName="Models/User.cs" Line="11" Column="6" />
+      <File FileName="Repository/ReportRepository.cs" Line="45" Column="24" />
+      <File FileName="ConsoleUI/Ui.cs" Line="14" Column="56" />
+      <File FileName="Program.cs" Line="25" Column="20" />
+      <File FileName="Models/Report.cs" Line="10" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ModuleApp" expanded="True">
             <Node name="ModuleApp" expanded="True">
+              <Node name="ConsoleUI" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Repository" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -23,9 +32,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
