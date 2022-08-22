@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/JM/greenFox/C-Sharp/consoleApp-3/consoleApp-1.csproj": {}
+    "/Users/JM/greenFox/C-Sharp/Expressions and Control Flow/RandomColorInConsole/consoleApp-1.csproj": {}
   },
   "projects": {
-    "/Users/JM/greenFox/C-Sharp/consoleApp-3/consoleApp-1.csproj": {
+    "/Users/JM/greenFox/C-Sharp/Expressions and Control Flow/RandomColorInConsole/consoleApp-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/JM/greenFox/C-Sharp/consoleApp-3/consoleApp-1.csproj",
+        "projectUniqueName": "/Users/JM/greenFox/C-Sharp/Expressions and Control Flow/RandomColorInConsole/consoleApp-1.csproj",
         "projectName": "consoleApp-3",
-        "projectPath": "/Users/JM/greenFox/C-Sharp/consoleApp-3/consoleApp-1.csproj",
+        "projectPath": "/Users/JM/greenFox/C-Sharp/Expressions and Control Flow/RandomColorInConsole/consoleApp-1.csproj",
         "packagesPath": "/Users/JM/.nuget/packages/",
-        "outputPath": "/Users/JM/greenFox/C-Sharp/consoleApp-3/obj/",
+        "outputPath": "/Users/JM/greenFox/C-Sharp/Expressions and Control Flow/RandomColorInConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/JM/.nuget/NuGet/NuGet.Config"
