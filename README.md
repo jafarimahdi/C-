@@ -1,6 +1,6 @@
 ### Basic of C#
 
-| File | Topica                       |
+| File | Topic                       |
 | ---: | :--------------------------- |
 |   1. | Expressions and Control flow |
 |   2. | Arrays                       |
