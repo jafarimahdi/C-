@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MileToKmConverter", "MileToKmConverter.csproj", "{230A7BAD-6C38-410E-A58D-E5442BE81C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{230A7BAD-6C38-410E-A58D-E5442BE81C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230A7BAD-6C38-410E-A58D-E5442BE81C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230A7BAD-6C38-410E-A58D-E5442BE81C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230A7BAD-6C38-410E-A58D-E5442BE81C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD903D35-049F-4AEC-BD01-6D48C7C95C50}
+	EndGlobalSection
+EndGlobal

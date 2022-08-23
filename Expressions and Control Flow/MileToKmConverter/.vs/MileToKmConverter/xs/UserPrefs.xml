@@ -1,17 +1,18 @@
-﻿<Properties StartupConfiguration="{02DFBD5F-6982-4A6A-A253-8BCEF4BD8DFB}|Default">
+﻿<Properties StartupConfiguration="{230A7BAD-6C38-410E-A58D-E5442BE81C24}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MileToKmConverter PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="27" Column="2" />
+      <File FileName="Program.cs" Line="23" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SecoundsInADay" expanded="True">
-            <Node name="SecoundsInADay" expanded="True" />
+          <Node name="MileToKmConverter" expanded="True">
+            <Node name="MileToKmConverter" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -21,6 +22,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.SecoundsInADay PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
