@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintEven", "PrintEven.csproj", "{AB9F93FF-CFDE-4FD5-96E5-03123B5CC767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9F93FF-CFDE-4FD5-96E5-03123B5CC767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9F93FF-CFDE-4FD5-96E5-03123B5CC767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9F93FF-CFDE-4FD5-96E5-03123B5CC767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9F93FF-CFDE-4FD5-96E5-03123B5CC767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A3B566E-1D47-4681-B7EE-E26D7FCC3149}
+	EndGlobalSection
+EndGlobal
