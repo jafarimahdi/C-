@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/bin/Debug/netcoreapp3.1/CompareLength
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/bin/Debug/netcoreapp3.1/CompareLength.deps.json
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/bin/Debug/netcoreapp3.1/CompareLength.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/bin/Debug/netcoreapp3.1/CompareLength.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/bin/Debug/netcoreapp3.1/CompareLength.dll
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/bin/Debug/netcoreapp3.1/CompareLength.pdb
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/obj/Debug/netcoreapp3.1/CompareLength.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/obj/Debug/netcoreapp3.1/CompareLength.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/obj/Debug/netcoreapp3.1/CompareLength.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/obj/Debug/netcoreapp3.1/CompareLength.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/obj/Debug/netcoreapp3.1/CompareLength.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/obj/Debug/netcoreapp3.1/CompareLength.dll
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/obj/Debug/netcoreapp3.1/CompareLength.pdb
+/Users/JM/greenFox/C-Sharp/Arrays/CompareLength/obj/Debug/netcoreapp3.1/CompareLength.genruntimeconfig.cache
