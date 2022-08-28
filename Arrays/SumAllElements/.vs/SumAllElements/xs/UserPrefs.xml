@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{681D2225-B90B-4074-9670-DF4237B125F6}|Default">
+﻿<Properties StartupConfiguration="{74F7AE8F-7994-470D-8117-7A5AACA7D8A3}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="26" Column="6" />
+      <File FileName="Program.cs" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AppendA" expanded="True">
-            <Node name="AppendA" expanded="True" />
+          <Node name="SumAllElements" expanded="True">
+            <Node name="SumAllElements" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -21,6 +21,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AppendA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SumAllElements PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

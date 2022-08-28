@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/bin/Debug/netcoreapp3.1/SumAllElements
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/bin/Debug/netcoreapp3.1/SumAllElements.deps.json
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/bin/Debug/netcoreapp3.1/SumAllElements.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/bin/Debug/netcoreapp3.1/SumAllElements.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/bin/Debug/netcoreapp3.1/SumAllElements.dll
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/bin/Debug/netcoreapp3.1/SumAllElements.pdb
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/obj/Debug/netcoreapp3.1/SumAllElements.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/obj/Debug/netcoreapp3.1/SumAllElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/obj/Debug/netcoreapp3.1/SumAllElements.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/obj/Debug/netcoreapp3.1/SumAllElements.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/obj/Debug/netcoreapp3.1/SumAllElements.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/obj/Debug/netcoreapp3.1/SumAllElements.dll
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/obj/Debug/netcoreapp3.1/SumAllElements.pdb
+/Users/JM/greenFox/C-Sharp/Arrays/SumAllElements/obj/Debug/netcoreapp3.1/SumAllElements.genruntimeconfig.cache
