@@ -1,26 +1,28 @@
-### Basic of C#
+### [Styleguide for C# ](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 
-| File | Topic                       |
-| ---: | :--------------------------- |
+## Basic of C#
+
+| File | Topic                                                                                                                                                                                                    |
+| ---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1. | [Expressions & Control flow: {Variable, Conditional statement, for Loop, while, do, Switch, user Input (scanner) }](https://github.com/jafarimahdi/C_Sharp/tree/main/Expressions%20and%20Control%20Flow) |
-|   2. | [Arrays, Multidimensional, Jagged ](https://github.com/jafarimahdi/C_Sharp/tree/main/Arrays)                       |
-|   3. | Functions                    |
+|   2. | [Arrays, Multidimensional, Jagged ](https://github.com/jafarimahdi/C_Sharp/tree/main/Arrays)                                                                                                             |
+|   3. | Functions                                                                                                                                                                                                |
 
 ## C# Language Syntax
 
--   What are the Data Types we have in C# and How to declare a Variable
+-   Data Types in C# and How to declare a Variable
 -   How Data Types are Categorized into Value Type and Reference Type
--   What is Implicit Casting and Explicit casting and How to handle Overflow checks
+-   Implicit Casting and Explicit casting and How to handle Overflow checks
 -   Difference between string and string Builder
 -   What is Boxing
 -   What is Unboxing
 -   What is Type Inference
 -   What are constants and Enums
--   What are the Operators we have in C#
+-   Operators we have in C#
 -   How the if, while, do while, switch condition will works
--   What is the difference between for and foreach and where to use for loop and where to use foreach
+-   difference between for and foreach and where to use for loop and where to use foreach
     loop
--   What is single dimension Array, multi dimension Array
+-   single dimension Array, multi dimension Array
 -   What is method overloading
 -   What are optional parameters and What will happen When we not provide any value for the
     parameter
@@ -30,9 +32,8 @@
 
 ## OOPs – Concepts
 
--   Introduction to OOPS and its priciples
--   What is a class
--   What is an object
+-   OOPS and its priciples
+-   class and object
 -   What is a component
 -   What is Encapsulation and Data Abstraction
 -   What is an inheritance and advantages of inheritance
