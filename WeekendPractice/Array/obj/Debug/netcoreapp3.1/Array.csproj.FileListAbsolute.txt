@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/bin/Debug/netcoreapp3.1/Array
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/bin/Debug/netcoreapp3.1/Array.deps.json
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/bin/Debug/netcoreapp3.1/Array.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/bin/Debug/netcoreapp3.1/Array.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/bin/Debug/netcoreapp3.1/Array.dll
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/bin/Debug/netcoreapp3.1/Array.pdb
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/obj/Debug/netcoreapp3.1/Array.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/obj/Debug/netcoreapp3.1/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/obj/Debug/netcoreapp3.1/Array.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/obj/Debug/netcoreapp3.1/Array.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/obj/Debug/netcoreapp3.1/Array.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/obj/Debug/netcoreapp3.1/Array.dll
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/obj/Debug/netcoreapp3.1/Array.pdb
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Array/obj/Debug/netcoreapp3.1/Array.genruntimeconfig.cache
