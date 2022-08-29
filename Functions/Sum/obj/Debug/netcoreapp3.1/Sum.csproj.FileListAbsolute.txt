@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/Functions/Sum/bin/Debug/netcoreapp3.1/Sum
+/Users/JM/greenFox/C-Sharp/Functions/Sum/bin/Debug/netcoreapp3.1/Sum.deps.json
+/Users/JM/greenFox/C-Sharp/Functions/Sum/bin/Debug/netcoreapp3.1/Sum.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/Functions/Sum/bin/Debug/netcoreapp3.1/Sum.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/Functions/Sum/bin/Debug/netcoreapp3.1/Sum.dll
+/Users/JM/greenFox/C-Sharp/Functions/Sum/bin/Debug/netcoreapp3.1/Sum.pdb
+/Users/JM/greenFox/C-Sharp/Functions/Sum/obj/Debug/netcoreapp3.1/Sum.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/Functions/Sum/obj/Debug/netcoreapp3.1/Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/Functions/Sum/obj/Debug/netcoreapp3.1/Sum.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/Functions/Sum/obj/Debug/netcoreapp3.1/Sum.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/Functions/Sum/obj/Debug/netcoreapp3.1/Sum.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/Functions/Sum/obj/Debug/netcoreapp3.1/Sum.dll
+/Users/JM/greenFox/C-Sharp/Functions/Sum/obj/Debug/netcoreapp3.1/Sum.pdb
+/Users/JM/greenFox/C-Sharp/Functions/Sum/obj/Debug/netcoreapp3.1/Sum.genruntimeconfig.cache

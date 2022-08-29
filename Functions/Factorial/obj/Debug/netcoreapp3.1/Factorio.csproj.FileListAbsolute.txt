@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/bin/Debug/netcoreapp3.1/Factorio
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/bin/Debug/netcoreapp3.1/Factorio.deps.json
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/bin/Debug/netcoreapp3.1/Factorio.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/bin/Debug/netcoreapp3.1/Factorio.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/bin/Debug/netcoreapp3.1/Factorio.dll
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/bin/Debug/netcoreapp3.1/Factorio.pdb
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/obj/Debug/netcoreapp3.1/Factorio.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/obj/Debug/netcoreapp3.1/Factorio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/obj/Debug/netcoreapp3.1/Factorio.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/obj/Debug/netcoreapp3.1/Factorio.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/obj/Debug/netcoreapp3.1/Factorio.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/obj/Debug/netcoreapp3.1/Factorio.dll
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/obj/Debug/netcoreapp3.1/Factorio.pdb
+/Users/JM/greenFox/C-Sharp/Functions/Factorio/obj/Debug/netcoreapp3.1/Factorio.genruntimeconfig.cache
