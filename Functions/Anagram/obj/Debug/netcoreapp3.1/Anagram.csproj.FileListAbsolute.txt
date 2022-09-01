@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/bin/Debug/netcoreapp3.1/Anagram
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/bin/Debug/netcoreapp3.1/Anagram.deps.json
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/bin/Debug/netcoreapp3.1/Anagram.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/bin/Debug/netcoreapp3.1/Anagram.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/bin/Debug/netcoreapp3.1/Anagram.dll
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/bin/Debug/netcoreapp3.1/Anagram.pdb
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/obj/Debug/netcoreapp3.1/Anagram.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/obj/Debug/netcoreapp3.1/Anagram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/obj/Debug/netcoreapp3.1/Anagram.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/obj/Debug/netcoreapp3.1/Anagram.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/obj/Debug/netcoreapp3.1/Anagram.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/obj/Debug/netcoreapp3.1/Anagram.dll
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/obj/Debug/netcoreapp3.1/Anagram.pdb
+/Users/JM/greenFox/C-Sharp/Functions/Anagram/obj/Debug/netcoreapp3.1/Anagram.genruntimeconfig.cache

@@ -33,9 +33,6 @@ namespace FindPartOfAnInteger
             }
             return indexOfElement;
         }
-
-        // Due to array protocol, we have to find the array size in the begining, and in this situation we are not able to it.
-        // that's we change the format to string to get the resutl and more capacity 
     }
 }
 

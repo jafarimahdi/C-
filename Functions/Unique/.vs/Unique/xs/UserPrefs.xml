@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{AEB15BDE-FA73-494C-AD5A-7995D2527239}|Default">
+﻿<Properties StartupConfiguration="{EF2D3D02-B644-417A-A394-84BBA2BBC2A4}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="30" Column="18" />
+      <File FileName="Program.cs" Line="28" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FindPartOfAnInteger" expanded="True">
-            <Node name="FindPartOfAnInteger" expanded="True" />
+          <Node name="Unique" expanded="True">
+            <Node name="Unique" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -18,8 +18,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.FindPartOfAnInteger PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Unique PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
