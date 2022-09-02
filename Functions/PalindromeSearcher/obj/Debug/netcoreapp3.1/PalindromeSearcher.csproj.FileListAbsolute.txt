@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/bin/Debug/netcoreapp3.1/PalindromeSearcher
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/bin/Debug/netcoreapp3.1/PalindromeSearcher.deps.json
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/bin/Debug/netcoreapp3.1/PalindromeSearcher.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/bin/Debug/netcoreapp3.1/PalindromeSearcher.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/bin/Debug/netcoreapp3.1/PalindromeSearcher.dll
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/bin/Debug/netcoreapp3.1/PalindromeSearcher.pdb
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/obj/Debug/netcoreapp3.1/PalindromeSearcher.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/obj/Debug/netcoreapp3.1/PalindromeSearcher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/obj/Debug/netcoreapp3.1/PalindromeSearcher.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/obj/Debug/netcoreapp3.1/PalindromeSearcher.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/obj/Debug/netcoreapp3.1/PalindromeSearcher.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/obj/Debug/netcoreapp3.1/PalindromeSearcher.dll
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/obj/Debug/netcoreapp3.1/PalindromeSearcher.pdb
+/Users/JM/greenFox/C-Sharp/Functions/PalindromeSearcher/obj/Debug/netcoreapp3.1/PalindromeSearcher.genruntimeconfig.cache
