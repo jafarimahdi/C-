@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/bin/Debug/netcoreapp3.1/Collection
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/bin/Debug/netcoreapp3.1/Collection.deps.json
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/bin/Debug/netcoreapp3.1/Collection.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/bin/Debug/netcoreapp3.1/Collection.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/bin/Debug/netcoreapp3.1/Collection.dll
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/bin/Debug/netcoreapp3.1/Collection.pdb
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/obj/Debug/netcoreapp3.1/Collection.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/obj/Debug/netcoreapp3.1/Collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/obj/Debug/netcoreapp3.1/Collection.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/obj/Debug/netcoreapp3.1/Collection.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/obj/Debug/netcoreapp3.1/Collection.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/obj/Debug/netcoreapp3.1/Collection.dll
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/obj/Debug/netcoreapp3.1/Collection.pdb
+/Users/JM/greenFox/C-Sharp/WeekendPractice/Collection/obj/Debug/netcoreapp3.1/Collection.genruntimeconfig.cache

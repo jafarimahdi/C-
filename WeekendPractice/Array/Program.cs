@@ -156,42 +156,6 @@ namespace Array
                 }
                 Console.WriteLine();
             }
-
-
-
-
-            //  Collection     1- ArrayList
-
-
-
-            ArrayList hashmamad = new ArrayList(); // Array in Javascript 
-            hashmamad.Add("fish");
-            hashmamad.Add("bolani");
-            hashmamad.Add(29);
-            hashmamad.Add(1.73);
-
-            foreach (var item in hashmamad)
-            {
-                Console.WriteLine(item);
-            }
-
-            Console.WriteLine("---------------------------");
-
-
-            ArrayList hashmamad2 = new ArrayList() { "chicken", "beef", "ghabeli Polo", 1900, 2015 };
-
-            ArrayList test = new ArrayList();
-            foreach (var item in hashmamad2)
-            {
-                Console.WriteLine(item);
-
-                test.Add(item.ToString());
-            }
-
-            foreach (var item in test)
-            {
-                Console.WriteLine(item.GetType());
-            }
         }
     }
 }
