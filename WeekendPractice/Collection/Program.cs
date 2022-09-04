@@ -8,7 +8,7 @@ namespace Collection
     {
         static void Main(string[] args)
         {
-            //  Collection     1- ArrayList
+            // ------------- ArrayList  --------------------
 
             //ArrayList hashmamad = new ArrayList(); // Array in Javascript 
             //hashmamad.Add("fish");
@@ -21,7 +21,7 @@ namespace Collection
             //    Console.WriteLine(item);
             //}
 
-            //Console.WriteLine("---------------------------");
+            //Console.WriteLine("-----------------");
 
 
             //ArrayList hashmamad2 = new ArrayList() { "chicken", "beef", "ghabeli Polo", 1900, 2015 };
@@ -38,6 +38,51 @@ namespace Collection
             //{
             //    Console.WriteLine(item.GetType());
             //}
+
+
+            // ------------- List --------------------------
+
+            List<string> shopingList = new List<string>();
+            shopingList.Add("Bannana");
+            shopingList.Add("Orange");
+            shopingList.Add("Apple");
+
+            for (int item = 0; item < shopingList.Count; item++)
+            {
+                Console.WriteLine(item);
+            }
+
+
+            List<string> shopingList2 = new List<string>() { "Rice", "Oil", "Bread" };
+
+            shopingList.Remove("Oil");
+
+            foreach (var item in shopingList2)
+            {
+                Console.WriteLine(item);
+            }
+
+            // ------------- HashTable -------------------
+
+            Hashtable myHashtable = new Hashtable();     // 1- defined the Hashtable
+            myHashtable.Add(1, "one");
+            myHashtable.Add("name", "Mahdi");           // key and value can be any dataType 
+
+
+            Hashtable myHashtable2 = new Hashtable() {       // 2- defined the Hashtable as object initializer 
+                { 1, "one" },
+                { "name", "Mahdi" }
+            };
+
+            foreach (var item in myHashtable.Keys)
+            {
+                Console.Write(item);
+            }
+
+            foreach (var item in myHashtable2.Values)
+            {
+                Console.Write(item);
+            }
 
 
             // ---------- Dictionary  ------------------------
