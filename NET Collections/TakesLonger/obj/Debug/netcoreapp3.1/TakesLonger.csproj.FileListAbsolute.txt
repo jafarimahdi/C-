@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/bin/Debug/netcoreapp3.1/TakesLonger
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/bin/Debug/netcoreapp3.1/TakesLonger.deps.json
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/bin/Debug/netcoreapp3.1/TakesLonger.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/bin/Debug/netcoreapp3.1/TakesLonger.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/bin/Debug/netcoreapp3.1/TakesLonger.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/bin/Debug/netcoreapp3.1/TakesLonger.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/obj/Debug/netcoreapp3.1/TakesLonger.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/obj/Debug/netcoreapp3.1/TakesLonger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/obj/Debug/netcoreapp3.1/TakesLonger.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/obj/Debug/netcoreapp3.1/TakesLonger.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/obj/Debug/netcoreapp3.1/TakesLonger.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/obj/Debug/netcoreapp3.1/TakesLonger.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/obj/Debug/netcoreapp3.1/TakesLonger.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/TakesLonger/obj/Debug/netcoreapp3.1/TakesLonger.genruntimeconfig.cache
