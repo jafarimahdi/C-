@@ -10,57 +10,35 @@ namespace Collection
         {
             // ------------- ArrayList  --------------------
 
-            //ArrayList hashmamad = new ArrayList(); // Array in Javascript 
-            //hashmamad.Add("fish");
-            //hashmamad.Add("bolani");
-            //hashmamad.Add(29);
-            //hashmamad.Add(1.73);
+            ArrayList hashmamad = new ArrayList(); // Array in Javascript 
+            hashmamad.Add("fish");
+            hashmamad.Add("bolani");
+            hashmamad.Add(29);
+            hashmamad.Add(1.73);
 
-            //foreach (var item in hashmamad)
-            //{
-            //    Console.WriteLine(item);
-            //}
-
-            //Console.WriteLine("-----------------");
-
-
-            //ArrayList hashmamad2 = new ArrayList() { "chicken", "beef", "ghabeli Polo", 1900, 2015 };
-
-            //ArrayList test = new ArrayList();
-            //foreach (var item in hashmamad2)
-            //{
-            //    Console.WriteLine(item);
-
-            //    test.Add(item.ToString());
-            //}
-
-            //foreach (var item in test)
-            //{
-            //    Console.WriteLine(item.GetType());
-            //}
-
-
-            // ------------- List --------------------------
-
-            List<string> shopingList = new List<string>();
-            shopingList.Add("Bannana");
-            shopingList.Add("Orange");
-            shopingList.Add("Apple");
-
-            for (int item = 0; item < shopingList.Count; item++)
+            foreach (var item in hashmamad)
             {
                 Console.WriteLine(item);
             }
 
+            Console.WriteLine("-----------------");
 
-            List<string> shopingList2 = new List<string>() { "Rice", "Oil", "Bread" };
 
-            shopingList.Remove("Oil");
+            ArrayList hashmamad2 = new ArrayList() { "chicken", "beef", "ghabeli Polo", 1900, 2015 };
 
-            foreach (var item in shopingList2)
+            ArrayList test = new ArrayList();
+            foreach (var item in hashmamad2)
             {
                 Console.WriteLine(item);
+
+                test.Add(item.ToString());
             }
+
+            foreach (var item in test)
+            {
+                Console.WriteLine(item.GetType());
+            }
+
 
             // ------------- HashTable -------------------
 
@@ -84,6 +62,32 @@ namespace Collection
                 Console.Write(item);
             }
 
+            // ====================================== Generic ==================
+
+
+
+            // ------------- List --------------------------
+
+
+            List<string> shopingList = new List<string>();
+            shopingList.Add("Bannana");
+            shopingList.Add("Orange");
+            shopingList.Add("Apple");
+
+            for (int item = 0; item < shopingList.Count; item++)
+            {
+                Console.WriteLine(item);
+            }
+
+
+            List<string> shopingList2 = new List<string>() { "Rice", "Oil", "Bread" };
+
+            shopingList.Remove("Oil");
+
+            foreach (var item in shopingList2)
+            {
+                Console.WriteLine(item);
+            }
 
             // ---------- Dictionary  ------------------------
 
@@ -104,6 +108,7 @@ namespace Collection
             {
                 Console.WriteLine(item);
             }
+
         }
     }
 }
