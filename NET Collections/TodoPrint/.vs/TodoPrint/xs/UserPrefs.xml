@@ -1,5 +1,5 @@
-﻿<Properties StartupConfiguration="{14A47FFF-C1F6-4FE9-ABF4-25688A926EBA}|Default">
-  <MonoDevelop.Ide.ItemProperties.TakesLonger PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{EBD871B7-95C5-4969-B86B-67D1897FB8AE}|Default">
+  <MonoDevelop.Ide.ItemProperties.TodoPrint PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -8,13 +8,13 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="32" Column="1" />
+      <File FileName="Program.cs" Line="36" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TakesLonger" expanded="True">
-            <Node name="TakesLonger" expanded="True" />
+          <Node name="TodoPrint" expanded="True">
+            <Node name="TodoPrint" expanded="True" />
           </Node>
         </State>
       </Pad>

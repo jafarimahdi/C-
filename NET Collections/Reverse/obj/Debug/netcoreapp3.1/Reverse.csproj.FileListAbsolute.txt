@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/obj/Debug/netcoreapp3.1/Reverse.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/obj/Debug/netcoreapp3.1/Reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/obj/Debug/netcoreapp3.1/Reverse.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/obj/Debug/netcoreapp3.1/Reverse.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/obj/Debug/netcoreapp3.1/Reverse.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/bin/Debug/netcoreapp3.1/Reverse
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/bin/Debug/netcoreapp3.1/Reverse.deps.json
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/bin/Debug/netcoreapp3.1/Reverse.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/bin/Debug/netcoreapp3.1/Reverse.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/bin/Debug/netcoreapp3.1/Reverse.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/bin/Debug/netcoreapp3.1/Reverse.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/obj/Debug/netcoreapp3.1/Reverse.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/obj/Debug/netcoreapp3.1/Reverse.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/Reverse/obj/Debug/netcoreapp3.1/Reverse.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/bin/Debug/netcoreapp3.1/TodoPrint
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/bin/Debug/netcoreapp3.1/TodoPrint.deps.json
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/bin/Debug/netcoreapp3.1/TodoPrint.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/bin/Debug/netcoreapp3.1/TodoPrint.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/bin/Debug/netcoreapp3.1/TodoPrint.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/bin/Debug/netcoreapp3.1/TodoPrint.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/obj/Debug/netcoreapp3.1/TodoPrint.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/obj/Debug/netcoreapp3.1/TodoPrint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/obj/Debug/netcoreapp3.1/TodoPrint.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/obj/Debug/netcoreapp3.1/TodoPrint.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/obj/Debug/netcoreapp3.1/TodoPrint.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/obj/Debug/netcoreapp3.1/TodoPrint.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/obj/Debug/netcoreapp3.1/TodoPrint.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/TodoPrint/obj/Debug/netcoreapp3.1/TodoPrint.genruntimeconfig.cache
