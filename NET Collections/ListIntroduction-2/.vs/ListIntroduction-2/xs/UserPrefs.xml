@@ -1,10 +1,4 @@
 ﻿<Properties StartupConfiguration="{C68267A6-4B80-4D8D-B8B4-E7B99D3B7952}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Program.cs" Line="72" Column="1" />
@@ -13,7 +7,11 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ListIntroduction-2" expanded="True">
-            <Node name="ListIntroduction-2" expanded="True" />
+            <Node name="ListIntroduction-2" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -22,5 +20,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ListIntroduction-2 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
