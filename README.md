@@ -7,10 +7,11 @@
 |   1. | [Expressions & Control flow: {Variable, Conditional statement, for Loop, while, do, Switch, user Input (scanner) }](https://github.com/jafarimahdi/C_Sharp/tree/main/Expressions%20and%20Control%20Flow) |
 |   2. | [Arrays, Multidimensional, Jagged ](https://github.com/jafarimahdi/C_Sharp/tree/main/Arrays)                                                                                                             |
 |   3. | [Functions](https://github.com/jafarimahdi/C_Sharp/tree/main/Functions)                                                                                                                                  |
+|   4. | [.Net Collection ](https://github.com/jafarimahdi/C_Sharp/tree/main/NET%20Collections)                                                                                                                   |
 
 | File | Topic                                                                               |
 | ---: | :---------------------------------------------------------------------------------- |
-|   1. | [Console Project](https://github.com/jafarimahdi/C_Sharp/tree/main/Project)                 |
+|   1. | [Console Project](https://github.com/jafarimahdi/C_Sharp/tree/main/Project)         |
 |   2. | [Weekend Review ](https://github.com/jafarimahdi/C_Sharp/tree/main/WeekendPractice) |
 
 ## C# Language Syntax
