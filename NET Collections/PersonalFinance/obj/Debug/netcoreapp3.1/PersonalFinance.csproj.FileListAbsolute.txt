@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/bin/Debug/netcoreapp3.1/PersonalFinance
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/bin/Debug/netcoreapp3.1/PersonalFinance.deps.json
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/bin/Debug/netcoreapp3.1/PersonalFinance.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/bin/Debug/netcoreapp3.1/PersonalFinance.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/bin/Debug/netcoreapp3.1/PersonalFinance.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/bin/Debug/netcoreapp3.1/PersonalFinance.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/obj/Debug/netcoreapp3.1/PersonalFinance.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/obj/Debug/netcoreapp3.1/PersonalFinance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/obj/Debug/netcoreapp3.1/PersonalFinance.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/obj/Debug/netcoreapp3.1/PersonalFinance.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/obj/Debug/netcoreapp3.1/PersonalFinance.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/obj/Debug/netcoreapp3.1/PersonalFinance.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/obj/Debug/netcoreapp3.1/PersonalFinance.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/PersonalFinance/obj/Debug/netcoreapp3.1/PersonalFinance.genruntimeconfig.cache

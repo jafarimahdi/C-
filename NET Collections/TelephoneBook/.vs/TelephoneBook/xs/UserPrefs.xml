@@ -1,15 +1,16 @@
-﻿<Properties StartupConfiguration="{5A9B2A4F-0BF2-4913-8B9E-20CB45FA4E0F}|Default">
+﻿<Properties StartupConfiguration="{E785F1B6-6208-4276-86F8-324BA44A0636}|Default">
+  <MonoDevelop.Ide.ItemProperties.TelephoneBook PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="52" Column="1" />
+      <File FileName="Program.cs" Line="21" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PersonalFinance" expanded="True">
-            <Node name="PersonalFinance" expanded="True" />
+          <Node name="TelephoneBook" expanded="True">
+            <Node name="TelephoneBook" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -21,6 +22,5 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.PersonalFinance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

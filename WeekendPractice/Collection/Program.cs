@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+//using Internal;
 
 namespace Collection
 {
@@ -21,7 +22,7 @@ namespace Collection
                 Console.WriteLine(item);
             }
 
-            Console.WriteLine("-----------------");
+            Console.WriteLine("-------------");
 
 
             ArrayList hashmamad2 = new ArrayList() { "chicken", "beef", "ghabeli Polo", 1900, 2015 };
@@ -36,7 +37,7 @@ namespace Collection
 
             foreach (var item in test)
             {
-                Console.WriteLine(item.GetType());
+                Console.WriteLine("hi " + item.GetType());
             }
 
 
@@ -61,9 +62,11 @@ namespace Collection
             {
                 Console.Write(item);
             }
+            Console.WriteLine();
 
             // ====================================== Generic ==================
 
+            Console.WriteLine("--- List -----");
 
 
             // ------------- List --------------------------
@@ -79,15 +82,25 @@ namespace Collection
                 Console.WriteLine(item);
             }
 
+            // listA += listB    JS => listA.contact(listB)
 
             List<string> shopingList2 = new List<string>() { "Rice", "Oil", "Bread" };
 
             shopingList.Remove("Oil");
 
+
+            shopingList2.AddRange(shopingList);
+
+            //   AddRange( )
+            shopingList2.AddRange(new string[] { "Pomelo", "Passion Fruit" });
+
             foreach (var item in shopingList2)
             {
                 Console.WriteLine(item);
             }
+
+            Console.WriteLine("--- Dictionary -----");
+
 
             // ---------- Dictionary  ------------------------
 
@@ -108,6 +121,39 @@ namespace Collection
             {
                 Console.WriteLine(item);
             }
+
+
+            Console.WriteLine("--- Map ----");
+            //  -------------------- Map ---------------------
+
+            // var myMap = new Dictionary<int, char> {
+            Dictionary<int, char> myMap = new Dictionary<int, char> {
+
+                {97,'a'},
+                {98,'b'},
+                {99,'c'},
+                {65,'A'},
+                {66,'B'},
+                {67,'C'},
+            };
+
+            //Add value D with the key 68
+            myMap.Add(68, 'D');
+
+            //Print how many key-value pairs are in the map
+            Console.WriteLine(myMap.Count);
+
+            //Print the value that is associated with key 99
+            Console.WriteLine(myMap.GetValueOrDefault(99));
+
+            //Remove the key-value pair where with key 97
+            myMap.Remove(97);
+
+            //Print whether there is an associated value with key 100 or not // it return value or nothing
+            Console.WriteLine(myMap.GetValueOrDefault(100));
+
+            //Remove all the key-value pairs
+            myMap.Clear();
 
         }
     }
