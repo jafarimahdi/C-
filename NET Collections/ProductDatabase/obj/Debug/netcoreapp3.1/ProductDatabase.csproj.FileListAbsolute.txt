@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/bin/Debug/netcoreapp3.1/ProductDatabase
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/bin/Debug/netcoreapp3.1/ProductDatabase.deps.json
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/bin/Debug/netcoreapp3.1/ProductDatabase.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/bin/Debug/netcoreapp3.1/ProductDatabase.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/bin/Debug/netcoreapp3.1/ProductDatabase.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/bin/Debug/netcoreapp3.1/ProductDatabase.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/obj/Debug/netcoreapp3.1/ProductDatabase.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/obj/Debug/netcoreapp3.1/ProductDatabase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/obj/Debug/netcoreapp3.1/ProductDatabase.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/obj/Debug/netcoreapp3.1/ProductDatabase.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/obj/Debug/netcoreapp3.1/ProductDatabase.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/obj/Debug/netcoreapp3.1/ProductDatabase.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/obj/Debug/netcoreapp3.1/ProductDatabase.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/ProductDatabase/obj/Debug/netcoreapp3.1/ProductDatabase.genruntimeconfig.cache
