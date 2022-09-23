@@ -78,16 +78,19 @@ namespace ProductDatabase
             Console.WriteLine(productWith125);
 
 
-            //What is the cheapest product ?      // ! -- you must take the first value and key for start
-            int findeCheapestProduct = 0;
-            foreach(var item in product)
+            //What is the cheapest product ?      
+            var firstDictionaryItem = product.First();
+            var findeCheapestProductByValue = firstDictionaryItem.Value;
+
+            foreach (var item in product)
             {
-                if(item.Value < findeCheapestProduct)
+                if (item.Value < findeCheapestProductByValue)
                 {
-                    findeCheapestProduct = item.Value;
+                    findeCheapestProductByValue = item.Value;
                 }
             }
-            string findTheKeyOfCheapestProduct = product.FirstOrDefault(x => x.Value == findeCheapestProduct).Key;
+
+            string findTheKeyOfCheapestProduct = product.FirstOrDefault(x => x.Value == findeCheapestProductByValue).Key;
             Console.WriteLine(findTheKeyOfCheapestProduct);
 
         }
