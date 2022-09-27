@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/bin/Debug/netcoreapp3.1/ShoppingList2
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/bin/Debug/netcoreapp3.1/ShoppingList2.deps.json
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/bin/Debug/netcoreapp3.1/ShoppingList2.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/bin/Debug/netcoreapp3.1/ShoppingList2.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/bin/Debug/netcoreapp3.1/ShoppingList2.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/bin/Debug/netcoreapp3.1/ShoppingList2.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/obj/Debug/netcoreapp3.1/ShoppingList2.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/obj/Debug/netcoreapp3.1/ShoppingList2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/obj/Debug/netcoreapp3.1/ShoppingList2.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/obj/Debug/netcoreapp3.1/ShoppingList2.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/obj/Debug/netcoreapp3.1/ShoppingList2.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/obj/Debug/netcoreapp3.1/ShoppingList2.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/obj/Debug/netcoreapp3.1/ShoppingList2.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/ShoppingList2/obj/Debug/netcoreapp3.1/ShoppingList2.genruntimeconfig.cache
