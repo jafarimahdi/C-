@@ -43,72 +43,97 @@ namespace ShoppingList2
             };
 
             //   How much does Bob pay?
-            bobPayment(product, bobShoppingList);
-            //How much does Alice pay ?
-            alicePayment(product, aliceShoppingList);
-            //Who buys more Rice?
-            moreRice(aliceShoppingList, bobShoppingList);
-            //Who buys more Potato?
-            morePotato(aliceShoppingList, bobShoppingList);
+            personPaymant(product, bobShoppingList);
+
+            //   How much does Alice pay ?
+            personPaymant(product, aliceShoppingList);
+
+            //   Who buys more Rice?
+            moreStuff(aliceShoppingList, bobShoppingList, "Rice");
+
+            //   Who buys more Potato?
+            moreStuff(aliceShoppingList, bobShoppingList, "Potato");
+
+            //   Who buys more Ham?
+            moreStuff(aliceShoppingList, bobShoppingList, "Ham");
+
+            //   Who buys more Apples?
+            moreStuff(aliceShoppingList, bobShoppingList, "Apples");
+
+            //Who buys more of different products?
+            whoBuyMoreProduct(aliceShoppingList, bobShoppingList);
+
+            //Who buys more items? (more pieces)
+            whoBuysMoreitems(aliceShoppingList, bobShoppingList);
 
 
-        } // end of the main
+        }
 
 
-        public static void bobPayment(Dictionary<string, Double> productList, Dictionary<string, int> bobList)
+        public static void personPaymant(Dictionary<string, Double> productList, Dictionary<string, int> personList)
         {
-            Double bobHasToPay = 0;
+            Double PersonHasToPay = 0;
 
-            foreach (var item in bobList)
+            foreach (var item in personList)
             {
                 if (productList.ContainsKey(item.Key))
                 {
 
-                    var addToBobPaymant = item.Value * productList[item.Key];
+                    var addToPersonPaymant = item.Value * productList[item.Key];
 
                     Console.WriteLine($"{item.Value} * {productList[item.Key]}");
 
-                    bobHasToPay += addToBobPaymant;
+                    PersonHasToPay += addToPersonPaymant;
                 }
             }
-            Console.WriteLine($"For the Shopping Bob has to pay:{bobHasToPay}");
+            Console.WriteLine($"This person has to pay:{PersonHasToPay}");
             Console.WriteLine("-------");
         }
 
-        private static void alicePayment(Dictionary<string, double> productList, Dictionary<string, int> aliceList)
-        {
-            Double aliceHasToPay = 0;
 
+        private static void moreStuff(Dictionary<string, int> aliceList, Dictionary<string, int> bobList, string stuff)
+        {
+            if (!(aliceList.ContainsKey(stuff) || bobList.ContainsKey(stuff)) || (aliceList.GetValueOrDefault(stuff) == bobList.GetValueOrDefault(stuff)))
+            {
+                Console.WriteLine("no One");
+            }
+            else
+            {
+                string whoBuyMoreStuff = (aliceList.GetValueOrDefault(stuff) > bobList.GetValueOrDefault(stuff)) ? "Alice" : "Bob";
+                Console.WriteLine(whoBuyMoreStuff);
+            }
+        }
+
+
+        private static void whoBuyMoreProduct(Dictionary<string, int> aliceList, Dictionary<string, int> bobList)
+        {
+            string whoBuyMore = (aliceList.Count > bobList.Count) ? "Alice" : "Bob";
+            Console.WriteLine(whoBuyMore);
+        }
+
+
+
+        private static void whoBuysMoreitems(Dictionary<string, int> aliceList, Dictionary<string, int> bobList)
+        {
+            int aliceItems = 0;
             foreach (var item in aliceList)
             {
-                if (productList.ContainsKey(item.Key))
-                {
-                    double addToAlicePayment = item.Value * productList[item.Key];
+                aliceItems += item.Value;
 
-                    Console.WriteLine($"{item.Value} * {productList[item.Key]}");
-                    aliceHasToPay += addToAlicePayment;
-                }
             }
-            Console.WriteLine($"For the Shopping Bob has to pay:{aliceHasToPay}");
-            Console.WriteLine("-------");
 
+            int bobItems = 0;
+            foreach (var item in bobList)
+            {
+                bobItems += item.Value;
+
+            }
+
+            string aliceBuysMoreOrBob = (aliceItems > bobItems) ? "Alice" : "Bob";
+            Console.WriteLine(aliceBuysMoreOrBob);
         }
 
-        private static void moreRice(Dictionary<string, int> aliceList, Dictionary<string, int> bobList)
-        {
-            string whoBuyMoreRice = (aliceList["Rice"] > bobList["Rice"]) ? "Alice" : "Bob";
-            Console.WriteLine(whoBuyMoreRice);
-        }
-
-        private static void morePotato(Dictionary<string, int> aliceList, Dictionary<string, int> bobList)
-        {
-            string whoBuyMorePotato = (aliceList.GetValueOrDefault("Potato") > bobList.GetValueOrDefault("Potato")) ? "Alice" : "Bob";
-            Console.WriteLine(whoBuyMorePotato);
-
-        }
-
-
-    } // end of the class
+    }
 
 
 }
