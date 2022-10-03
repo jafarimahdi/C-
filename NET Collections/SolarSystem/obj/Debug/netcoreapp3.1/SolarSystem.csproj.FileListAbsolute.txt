@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/bin/Debug/netcoreapp3.1/SolarSystem
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/bin/Debug/netcoreapp3.1/SolarSystem.deps.json
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/bin/Debug/netcoreapp3.1/SolarSystem.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/bin/Debug/netcoreapp3.1/SolarSystem.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/bin/Debug/netcoreapp3.1/SolarSystem.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/bin/Debug/netcoreapp3.1/SolarSystem.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/obj/Debug/netcoreapp3.1/SolarSystem.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/obj/Debug/netcoreapp3.1/SolarSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/obj/Debug/netcoreapp3.1/SolarSystem.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/obj/Debug/netcoreapp3.1/SolarSystem.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/obj/Debug/netcoreapp3.1/SolarSystem.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/obj/Debug/netcoreapp3.1/SolarSystem.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/obj/Debug/netcoreapp3.1/SolarSystem.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/SolarSystem/obj/Debug/netcoreapp3.1/SolarSystem.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/obj/Debug/netcoreapp3.1/ElementFinder.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/obj/Debug/netcoreapp3.1/ElementFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/obj/Debug/netcoreapp3.1/ElementFinder.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/obj/Debug/netcoreapp3.1/ElementFinder.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/obj/Debug/netcoreapp3.1/ElementFinder.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/bin/Debug/netcoreapp3.1/ElementFinder
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/bin/Debug/netcoreapp3.1/ElementFinder.deps.json
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/bin/Debug/netcoreapp3.1/ElementFinder.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/bin/Debug/netcoreapp3.1/ElementFinder.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/bin/Debug/netcoreapp3.1/ElementFinder.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/bin/Debug/netcoreapp3.1/ElementFinder.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/obj/Debug/netcoreapp3.1/ElementFinder.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/obj/Debug/netcoreapp3.1/ElementFinder.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/ElementFinder/obj/Debug/netcoreapp3.1/ElementFinder.genruntimeconfig.cache

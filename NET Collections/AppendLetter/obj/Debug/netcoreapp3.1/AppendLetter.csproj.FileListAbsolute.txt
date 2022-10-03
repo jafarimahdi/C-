@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/obj/Debug/netcoreapp3.1/AppendLetter.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/obj/Debug/netcoreapp3.1/AppendLetter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/obj/Debug/netcoreapp3.1/AppendLetter.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/obj/Debug/netcoreapp3.1/AppendLetter.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/obj/Debug/netcoreapp3.1/AppendLetter.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/bin/Debug/netcoreapp3.1/AppendLetter
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/bin/Debug/netcoreapp3.1/AppendLetter.deps.json
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/bin/Debug/netcoreapp3.1/AppendLetter.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/bin/Debug/netcoreapp3.1/AppendLetter.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/bin/Debug/netcoreapp3.1/AppendLetter.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/bin/Debug/netcoreapp3.1/AppendLetter.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/obj/Debug/netcoreapp3.1/AppendLetter.dll
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/obj/Debug/netcoreapp3.1/AppendLetter.pdb
+/Users/JM/greenFox/C-Sharp/NET Collections/AppendLetter/obj/Debug/netcoreapp3.1/AppendLetter.genruntimeconfig.cache
