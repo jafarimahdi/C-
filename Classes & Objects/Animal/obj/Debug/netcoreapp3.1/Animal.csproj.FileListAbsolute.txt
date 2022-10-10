@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/bin/Debug/netcoreapp3.1/Animal
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/bin/Debug/netcoreapp3.1/Animal.deps.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/bin/Debug/netcoreapp3.1/Animal.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/bin/Debug/netcoreapp3.1/Animal.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/bin/Debug/netcoreapp3.1/Animal.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/bin/Debug/netcoreapp3.1/Animal.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/obj/Debug/netcoreapp3.1/Animal.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/obj/Debug/netcoreapp3.1/Animal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/obj/Debug/netcoreapp3.1/Animal.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/obj/Debug/netcoreapp3.1/Animal.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/obj/Debug/netcoreapp3.1/Animal.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/obj/Debug/netcoreapp3.1/Animal.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/obj/Debug/netcoreapp3.1/Animal.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Animal/obj/Debug/netcoreapp3.1/Animal.genruntimeconfig.cache
