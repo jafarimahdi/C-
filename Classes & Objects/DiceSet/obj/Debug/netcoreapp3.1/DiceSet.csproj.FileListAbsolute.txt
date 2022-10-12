@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/bin/Debug/netcoreapp3.1/DiceSet
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/bin/Debug/netcoreapp3.1/DiceSet.deps.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/bin/Debug/netcoreapp3.1/DiceSet.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/bin/Debug/netcoreapp3.1/DiceSet.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/bin/Debug/netcoreapp3.1/DiceSet.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/bin/Debug/netcoreapp3.1/DiceSet.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/obj/Debug/netcoreapp3.1/DiceSet.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/obj/Debug/netcoreapp3.1/DiceSet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/obj/Debug/netcoreapp3.1/DiceSet.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/obj/Debug/netcoreapp3.1/DiceSet.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/obj/Debug/netcoreapp3.1/DiceSet.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/obj/Debug/netcoreapp3.1/DiceSet.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/obj/Debug/netcoreapp3.1/DiceSet.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/DiceSet/obj/Debug/netcoreapp3.1/DiceSet.genruntimeconfig.cache
