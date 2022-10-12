@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/bin/Debug/netcoreapp3.1/Counter
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/bin/Debug/netcoreapp3.1/Counter.deps.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/bin/Debug/netcoreapp3.1/Counter.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/bin/Debug/netcoreapp3.1/Counter.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/bin/Debug/netcoreapp3.1/Counter.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/bin/Debug/netcoreapp3.1/Counter.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/obj/Debug/netcoreapp3.1/Counter.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/obj/Debug/netcoreapp3.1/Counter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/obj/Debug/netcoreapp3.1/Counter.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/obj/Debug/netcoreapp3.1/Counter.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/obj/Debug/netcoreapp3.1/Counter.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/obj/Debug/netcoreapp3.1/Counter.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/obj/Debug/netcoreapp3.1/Counter.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Counter/obj/Debug/netcoreapp3.1/Counter.genruntimeconfig.cache
