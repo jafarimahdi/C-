@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{919D202E-2D3D-4E67-B2F9-6A21835D7091}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FleetOfThings.cs">
+    <Files>
+      <File FileName="Program.cs" Line="33" Column="30" />
+      <File FileName="Fleet.cs" Line="9" Column="1" />
+      <File FileName="Thing.cs" Line="17" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FleetOfThings" expanded="True">
+            <Node name="FleetOfThings" expanded="True">
+              <Node name="FleetOfThings.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FleetOfThings PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

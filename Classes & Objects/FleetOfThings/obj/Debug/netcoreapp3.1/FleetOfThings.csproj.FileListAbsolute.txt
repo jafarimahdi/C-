@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/bin/Debug/netcoreapp3.1/FleetOfThings
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/bin/Debug/netcoreapp3.1/FleetOfThings.deps.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/bin/Debug/netcoreapp3.1/FleetOfThings.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/bin/Debug/netcoreapp3.1/FleetOfThings.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/bin/Debug/netcoreapp3.1/FleetOfThings.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/bin/Debug/netcoreapp3.1/FleetOfThings.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/obj/Debug/netcoreapp3.1/FleetOfThings.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/obj/Debug/netcoreapp3.1/FleetOfThings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/obj/Debug/netcoreapp3.1/FleetOfThings.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/obj/Debug/netcoreapp3.1/FleetOfThings.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/obj/Debug/netcoreapp3.1/FleetOfThings.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/obj/Debug/netcoreapp3.1/FleetOfThings.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/obj/Debug/netcoreapp3.1/FleetOfThings.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/FleetOfThings/obj/Debug/netcoreapp3.1/FleetOfThings.genruntimeconfig.cache
