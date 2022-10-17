@@ -15,14 +15,34 @@ namespace DiceSet
 
             DiceSet diceSet = new DiceSet();
 
-            Console.WriteLine(diceSet.GetCurrent());
+            //Console.WriteLine(diceSet.GetCurrent());
+            //diceSet.Roll();
+            //Console.WriteLine(diceSet.GetCurrent());
+            //Console.WriteLine(diceSet.GetCurrent(5));
+            //diceSet.Reroll();
+            //Console.WriteLine(diceSet.GetCurrent());
+            //diceSet.Reroll(4);
+            //Console.WriteLine(diceSet.GetCurrent());
+
+
+            int diceValue = 0;
             diceSet.Roll();
-            Console.WriteLine(diceSet.GetCurrent());
-            Console.WriteLine(diceSet.GetCurrent(5));
-            diceSet.Reroll();
-            Console.WriteLine(diceSet.GetCurrent());
-            diceSet.Reroll(4);
-            Console.WriteLine(diceSet.GetCurrent());
+
+            while (diceValue != 6)
+            {
+                diceSet.Reroll();
+                for (int i = 0; i < 6; i++)
+                {
+                    if (diceSet.GetCurrent(i) == 6)
+                    {
+
+                        diceValue++;
+                    }
+                }
+            }
+
+
+            Console.WriteLine("All dice are 6!");
         }
     }
 }

@@ -3,11 +3,12 @@ namespace DiceSet
 {
     public class DiceSet
     {
-        //public DiceSet()
-        //{
-        //}
         private Random randomValue = new Random();
         private int[] dice = new int[6];
+
+        public DiceSet()
+        {
+        }
 
         public int[] Roll()
         {
@@ -19,15 +20,18 @@ namespace DiceSet
             return dice;
         }
 
+
         public int[] GetCurrent()
         {
             return dice;
         }
 
+
         public int GetCurrent(int i)
         {
             return dice[i];
         }
+
 
         public void Reroll()
         {
@@ -41,6 +45,7 @@ namespace DiceSet
         {
             dice[k] = new Random().Next(1, 7);
         }
+
     }
 }
 
