@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C30D7B61-BB65-432A-9A1B-2CC4308FC989}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Domino.cs">
+    <Files>
+      <File FileName="Program.cs" Line="57" Column="14" />
+      <File FileName="Domino.cs" Line="21" Column="2" />
+      <File FileName="../../../Classes &amp; Objects/Dominos/Domino.cs" Line="1" Column="1" />
+      <File FileName="../../../Classes &amp; Objects/Dominos/Program.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dominos" expanded="True">
+            <Node name="Dominos" expanded="True">
+              <Node name="Domino.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Dominos PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
