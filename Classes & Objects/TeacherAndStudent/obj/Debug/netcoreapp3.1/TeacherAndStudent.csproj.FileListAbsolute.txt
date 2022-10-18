@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/bin/Debug/netcoreapp3.1/TeacherAndStudent
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/bin/Debug/netcoreapp3.1/TeacherAndStudent.deps.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/bin/Debug/netcoreapp3.1/TeacherAndStudent.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/bin/Debug/netcoreapp3.1/TeacherAndStudent.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/bin/Debug/netcoreapp3.1/TeacherAndStudent.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/bin/Debug/netcoreapp3.1/TeacherAndStudent.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/obj/Debug/netcoreapp3.1/TeacherAndStudent.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/obj/Debug/netcoreapp3.1/TeacherAndStudent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/obj/Debug/netcoreapp3.1/TeacherAndStudent.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/obj/Debug/netcoreapp3.1/TeacherAndStudent.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/obj/Debug/netcoreapp3.1/TeacherAndStudent.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/obj/Debug/netcoreapp3.1/TeacherAndStudent.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/obj/Debug/netcoreapp3.1/TeacherAndStudent.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/TeacherAndStudent/obj/Debug/netcoreapp3.1/TeacherAndStudent.genruntimeconfig.cache
