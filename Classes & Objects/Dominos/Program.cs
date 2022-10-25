@@ -26,21 +26,28 @@ namespace Dominoes
 
         }
 
+
         public static void OrderedDominoes(List<Domino> dominoes)
         {
-            var dominoesNewOrder = new List<Domino>();
-            dominoesNewOrder.Add(dominoes[0]);
+            var dominoesNewOrder = new List<Domino>(); // new list
 
-            for (int i = 0; i < dominoes.Count; i++)
+            dominoesNewOrder.Add(dominoes[0]); // first target to compare 
+
+
+
+            for (int i = 0; i < dominoes.Count; i++) // loop -1
             {
-                for (int j = 0; j < dominoes.Count; j++)
+                for (int j = 0; j < dominoes.Count; j++) // loop -2
                 {
-                    if (dominoesNewOrder[i].GetValues()[1] == dominoes[j].GetValues()[0])
+                    if (dominoesNewOrder[i].GetValues()[1] == dominoes[j].GetValues()[0])  // compare both loop
                     {
                         dominoesNewOrder.Add(dominoes[j]);
                     }
                 }
             }
+
+
+
             foreach (var item in dominoesNewOrder)
             {
                 Console.Write(item.ToString());

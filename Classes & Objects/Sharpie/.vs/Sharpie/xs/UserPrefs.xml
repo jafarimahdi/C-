@@ -1,17 +1,15 @@
 ﻿<Properties StartupConfiguration="{7D210EAA-AD0E-43CE-BAE9-C0E5DD76C5F2}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="27" Column="1" />
-      <File FileName="Sharpie.cs" Line="25" Column="1" />
+      <File FileName="Sharpie.cs" Line="8" Column="35" />
+      <File FileName="SharpieSet.cs" Line="11" Column="1" />
+      <File FileName="Program.cs" Line="71" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sharpie" expanded="True">
-            <Node name="Sharpie" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="Sharpie" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -20,10 +18,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Sharpie PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Sharpie PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
