@@ -10,7 +10,6 @@ namespace Pirates
         {
         }
 
-
         public void DrinkSomeRum()
         {
             if (!stillAlive)
@@ -46,16 +45,16 @@ namespace Pirates
         }
 
 
-        public void Brawl(Pirate anotehrPirate)
+        public bool Brawl(Pirate anotehrPirate)
         {
             // 1- check if the pirat is alive
             if (!stillAlive)
             {
                 Console.WriteLine("he's dead");
+                return false;
             }
             else
             {
-
                 // 2- check if the pirate not passed out 
                 if ((this.intoxicationOfPirate < 4 && this.intoxicationOfPirate > 0) &&
                     (anotehrPirate.intoxicationOfPirate < 4 && anotehrPirate.intoxicationOfPirate > 0))
@@ -65,22 +64,25 @@ namespace Pirates
                         Console.WriteLine("both passed out");
                         this.intoxicationOfPirate = 0;
                         anotehrPirate.intoxicationOfPirate = 0;
+                        return false;
                     }
                     // 3- fight start here
                     else if (this.intoxicationOfPirate < anotehrPirate.intoxicationOfPirate)
                     {
                         Console.WriteLine($"our pirate was the winner {this.intoxicationOfPirate} ");
-                        Die();
+                        return true;
                     }
                     else
                     {
                         Console.WriteLine("the enemy pirate was the winner");
                         Die();
+                        return false;
                     }
                 }
                 else
                 {
                     Console.WriteLine("the pirate is passed out and not able to fight ");
+                    return true;
                 }
             }
         }

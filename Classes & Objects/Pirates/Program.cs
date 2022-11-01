@@ -7,26 +7,32 @@ namespace Pirates
         static void Main(string[] args)
         {
 
-            Pirate hajMamad = new Pirate();
-            hajMamad.DrinkSomeRum();
-            hajMamad.DrinkSomeRum();
-            hajMamad.DrinkSomeRum();
-            Console.WriteLine(hajMamad.intoxicationOfPirate);
-            
-            Pirate enemy = new Pirate();
+            //Pirate hajMamad = new Pirate();
+            //hajMamad.DrinkSomeRum();
+            //hajMamad.DrinkSomeRum();
+            //hajMamad.DrinkSomeRum();
+            //Console.WriteLine(hajMamad.intoxicationOfPirate);
 
-            Console.WriteLine(enemy.intoxicationOfPirate);
+            //Pirate enemy = new Pirate();
 
-            Console.WriteLine("-------");
-            hajMamad.Brawl(enemy);
+            //Console.WriteLine(enemy.intoxicationOfPirate);
 
-            Console.WriteLine("-------");
+            //Console.WriteLine("-------");
+            //hajMamad.Brawl(enemy);
+
             Ship firestShip = new Ship();
 
             firestShip.fillShip();
             firestShip.shipInfo();
+            Console.WriteLine("-------");
 
+            Ship secoundShip = new Ship();
+            secoundShip.fillShip();
+            secoundShip.shipInfo();
 
+            Console.WriteLine("-------");
+
+            firestShip.Battel(secoundShip).shipInfo();
         }
     }
 }

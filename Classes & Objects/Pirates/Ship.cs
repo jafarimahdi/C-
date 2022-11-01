@@ -19,12 +19,14 @@ namespace Pirates
             int piratCrew = new Random().Next(1, 114); // get random number for amount of crew in ship
             for (var i = 0; i < piratCrew; i++)
             {
-                // add crew
-                this.pirates.Add(new Pirate());
+                // add crew to ship
+                Pirate newCrew = new Pirate();
+                newCrew.intoxicationOfPirate = new Random().Next(1, 5);
+                this.pirates.Add(newCrew);
 
             }
 
-            this.Capitan[0] = new Pirate();
+            this.Capitan[0] = new Pirate(); // make a capitan
 
             Console.WriteLine($"this ship has {pirates.Count} crew and {Capitan.Length} Capitan ");
         }
@@ -48,6 +50,45 @@ namespace Pirates
             Console.WriteLine($"Rum consumed by the Capitan is{capitanIntoxication} and he is {capitanState}");
             Console.WriteLine($"we have still {amountOfAlivePirates} crew alive, in the ship");
 
+        }
+
+        public Ship Battel(Ship enemyShip)
+        {
+            // each crew from our ship should fight with enemyShips crew ?
+            int ourWinner = 0;
+            int enemyWinner = 0;
+            List<Pirate> listToLoop = (this.pirates.Count < enemyShip.pirates.Count) ? this.pirates : enemyShip.pirates;
+
+            for (int i = 0; i < listToLoop.Count; i++)
+            {
+                if (pirates[i].Brawl(enemyShip.pirates[i]))
+                {
+                    ourWinner++;
+                }
+                else
+                {
+                    enemyWinner++;
+                };
+            }
+
+            Console.WriteLine($"{ourWinner} of our crew and {enemyWinner} of enemy crew won the fight");
+
+            List<Pirate> winner = (ourWinner > enemyWinner) ? enemyShip.pirates : this.pirates;
+            foreach (Pirate item in winner)
+            {
+                item.DrinkSomeRum();
+            }
+
+
+
+            if ((ourWinner > enemyWinner))
+            {
+                return (Ship)this;
+            }
+            else
+            {
+                return (Ship)enemyShip;
+            }
         }
 
     }
