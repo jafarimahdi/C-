@@ -8,6 +8,7 @@
 |   2. | [Arrays, Multidimensional, Jagged ](https://github.com/jafarimahdi/C_Sharp/tree/main/Arrays)                                                                                                             |
 |   3. | [Functions](https://github.com/jafarimahdi/C_Sharp/tree/main/Functions)                                                                                                                                  |
 |   4. | [.Net Collection ](https://github.com/jafarimahdi/C_Sharp/tree/main/NET%20Collections)                                                                                                                   |
+|   5. | [Classes & Objects ](https://github.com/jafarimahdi/C_Sharp/tree/main/Classes%20%26%20Objects)                                                                                                           |
 
 | File | Topic                                                                               |
 | ---: | :---------------------------------------------------------------------------------- |
@@ -16,18 +17,17 @@
 
 ## C# Language Syntax
 
--   Data Types in C# and How to declare a Variable
--   How Data Types are Categorized into Value Type and Reference Type
+-   Data Types in C#
+-   Data Types Categorized into Value Type and Reference Type
 -   Implicit Casting and Explicit casting and How to handle Overflow checks
 -   Difference between string and string Builder
 -   What is Boxing
 -   What is Unboxing
 -   What is Type Inference
 -   What are constants and Enums
--   Operators we have in C#
--   How the if, while, do while, switch condition will works
--   difference between for and foreach and where to use for loop and where to use foreach
-    loop
+-   Operators in C#
+-   if, while, do while, switch condition
+-   difference between for and foreach and where to use
 -   single dimension Array, multi dimension Array
 -   What is method overloading
 -   What are optional parameters and What will happen When we not provide any value for the
@@ -41,41 +41,41 @@
 -   OOPS and its priciples
 -   class and object
 -   What is a component
--   What is Encapsulation and Data Abstraction
--   What is an inheritance and advantages of inheritance
--   What is a ploymorphism
+-   Encapsulation and Data Abstraction
+-   inheritance and advantages of inheritance
+-   ploymorphism
 
 ## OOPs - Encapsulation
 
 -   How to create a WindowsForms application
--   How to create a class and How to declare field members in it
--   How to Design GUI using Controls in the ToolBox
+-   class and How to declare field members
+-   Design GUI using Controls in the ToolBox
 -   How button click event works
 -   How Garbage collector will destroy the objects and What are the generations in Garbage Collector
 -   What is an instance Method and What is the use of this keyword inside a method
--   What are properties and What does a get and set block do
--   What is the difference between constructor and Destructor
+-   Properties and What does a get and set block do
+-   Difference between constructor and Destructor
 -   Where the static members allocate memory
 -   When the memory is allocated for static members
 -   How to access a static member
--   What is the role of Static constructor and How it executes
+-   Role of Static constructor and How it executes
 -   When to declare a class as static
 
 ## OOPs – Inheritance
 
--   What is Protected keyword and How to bypass it through child class
--   How to casting the reference types
+-   Protected keyword and How to bypass it through child class
+-   Casting the reference types
 -   What does a "is" operator do
 -   What does "as" operator do
 -   What does "??" operator do
--   What is static Binding and Dynamic Binding
--   How to override a method
--   What is an abstract class , abstract method
+-   Static Binding and Dynamic Binding
+-   Override a method
+-   Abstract class , abstract method
 -   When to declare a class as abstract
--   What is the difference between abstract class and concrete class
+-   Difference between abstract class and concrete class
 -   When to declare a method using new keyword
 -   What is a system.object class
--   What are the methods in the object class
+-   Methods in the object class
 
 ## OOPs - Interface and Polymorphism
 
@@ -84,23 +84,23 @@
 -   How to solve if two interfaces having same method name
 -   What is publicly implemented and Explicitly implemented
 -   Why does the .net doesn't support multiple inheritance using classes
--   How to implement an interface by inheriting it
+-   Implement an interface by inheriting it
 
 ## Collections and Generics
 
--   What are the Types of collections and What is IEnumerable, ICollection, IList, IDictionary
--   What is ArrayList, HashTable, SortedList, Queue, Stack
--   How to iterate using IEnumerable
+-   Types of collections and What is IEnumerable, ICollection, IList, IDictionary
+-   ArrayList, HashTable, SortedList, Queue, Stack
+-   iterate using IEnumerable
 -   How sort using IComparer and IComparable
--   What are the advantages of Generics and How they work at Runtime
--   What are Generic methods and Generic collection classes
--   What is List and Dictionary
+-   Advantages of Generics and How they work at Runtime
+-   Generic methods and Generic collection classes
+-   List and Dictionary
 
 ## Assemblies and GAC
 
--   What is difference between DLL and EXE
--   How to build a class library
--   How to use a Class Library in another Application
+-   Difference between DLL and EXE
+-   Build a class library
+-   Use a Class Library in another Application
 -   What is Namespace
 -   Internal Access Specifier
 -   Types of Assemblies
@@ -108,73 +108,72 @@
 
 ## Exception Handling
 
--   What is an Exception and types of Exceptions
--   How to handle Exception using try and catch blocks
--   How to throw an Exception using throw ex and throw
+-   Exception and types of Exceptions
+-   Handle Exception using try and catch blocks
+-   throw an Exception using throw ex and throw
 -   What is finally Block
--   How to define custom Exception class
+-   Define custom Exception class
 
 ## IO Streams
 
--   What is a Stream and Types of Streams
+-   Stream and Types of Streams
 -   What are standard IO streams
 -   How Files can be Handled using FileMode, FileAccess, FileShare
--   What is Binary Reader and Binary Writer
--   How to work with File System
--   What is Serialization and Deserialization
+-   Binary Reader and Binary Writer
+-   work with File System
+-   Serialization and Deserialization
 
 ## Reflection and Attributes
 
--   How to read type information Using Reflection
--   How to work with Attributes
--   What are Pre-defined Attributes
--   What are Custom Attributes
--   How to read custom attributes Using Reflection
+-   Read type information Using Reflection
+-   work with Attributes
+-   Pre-defined Attributes
+-   Custom Attributes
+-   Read custom attributes Using Reflection
 
 ## Extended C# Language Features
 
--   What is Operator Overloading
--   What is the partial class, partial methods
--   What are Extension Methods
--   What are Anonymous Types
--   What are Tuples
--   What is caller Information
--   What is configuration File
+-   Operator Overloading
+-   Partial class, partial methods
+-   Extension Methods
+-   Anonymous Types
+-   Tuples
+-   Caller Information
+-   Configuration File
 
 ## New Features of C# 6.0
 
--   What is String Interpolation
--   What is Null Conditional Operator
--   What is Auto Property Initializer
--   What is Dictionary / Index Initializer
--   What is Expression-bodied function members
--   What is Static Using
--   What is name of Expression
--   What are Exception Filters
--   What is Declaration Expressions
+-   String Interpolation
+-   Null Conditional Operator
+-   Auto Property Initializer
+-   Dictionary / Index Initializer
+-   Expression-bodied function members
+-   Static Using
+-   Name of Expression
+-   Exception Filters
+-   Declaration Expressions
 -   How does await keyword works in catch and finally block
 
 ## Developing GUI Application Using WinForms
 
--   What are the controls that have in the WindowsForms
--   What are the important properties of the controls
--   What are the important Events that each control have
--   What are the Container controls
--   What are Graphical Objects
--   What are GDI objects
--   What is MenuStrip, ContextMenuStrip, ToolStrip And StatusStrip
--   How to work with Model Dialog
--   How to develope a Notepad Application
--   What is Modeless dialog Box
--   What is Multiple Document Interface
--   What is Form Inheritance
--   How to Add Login Facility to the Application
--   How to work with the Resource files
--   What is NotifyIcon Control
--   What is Timer control
--   How to Drag and Drop the Files
--   What is a Treeview
--   What is a ListView
+-   Controls in the WindowsForms
+-   Important properties of the controls
+-   Important Events that each control have
+-   Container controls
+-   Graphical Objects
+-   GDI objects
+-   MenuStrip, ContextMenuStrip, ToolStrip And StatusStrip
+-   Model Dialog
+-   Modeless dialog Box
+-   Multiple Document Interface
+-   Form Inheritance
+-   Add Login Facility to the Application
+-   Resource files
+-   NotifyIcon Control
+-   Timer control
+-   Drag and Drop the Files
+-   Treeview
+-   ListView
 
 ## ADO.NET Part1 - Managed Provider Objects
 
