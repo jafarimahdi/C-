@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/bin/Debug/netcoreapp3.1/Pirates
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/bin/Debug/netcoreapp3.1/Pirates.deps.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/bin/Debug/netcoreapp3.1/Pirates.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/bin/Debug/netcoreapp3.1/Pirates.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/bin/Debug/netcoreapp3.1/Pirates.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/bin/Debug/netcoreapp3.1/Pirates.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/obj/Debug/netcoreapp3.1/Pirates.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/obj/Debug/netcoreapp3.1/Pirates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/obj/Debug/netcoreapp3.1/Pirates.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/obj/Debug/netcoreapp3.1/Pirates.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/obj/Debug/netcoreapp3.1/Pirates.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/obj/Debug/netcoreapp3.1/Pirates.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/obj/Debug/netcoreapp3.1/Pirates.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/Pirates/obj/Debug/netcoreapp3.1/Pirates.genruntimeconfig.cache

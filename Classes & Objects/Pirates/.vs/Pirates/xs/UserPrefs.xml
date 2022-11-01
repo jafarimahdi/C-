@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2F0145A0-1A4D-485F-BA32-69B1688802A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ship.cs">
+    <Files>
+      <File FileName="Program.cs" Line="23" Column="36" />
+      <File FileName="Pirate.cs" Line="17" Column="14" />
+      <File FileName="Ship.cs" Line="18" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pirates" expanded="True">
+            <Node name="Pirates" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Pirates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
