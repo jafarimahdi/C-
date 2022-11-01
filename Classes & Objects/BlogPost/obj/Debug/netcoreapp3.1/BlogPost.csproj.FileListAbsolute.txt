@@ -1,0 +1,14 @@
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/bin/Debug/netcoreapp3.1/BlogPost
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/bin/Debug/netcoreapp3.1/BlogPost.deps.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/bin/Debug/netcoreapp3.1/BlogPost.runtimeconfig.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/bin/Debug/netcoreapp3.1/BlogPost.runtimeconfig.dev.json
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/bin/Debug/netcoreapp3.1/BlogPost.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/bin/Debug/netcoreapp3.1/BlogPost.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/obj/Debug/netcoreapp3.1/BlogPost.csproj.AssemblyReference.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/obj/Debug/netcoreapp3.1/BlogPost.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/obj/Debug/netcoreapp3.1/BlogPost.AssemblyInfoInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/obj/Debug/netcoreapp3.1/BlogPost.AssemblyInfo.cs
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/obj/Debug/netcoreapp3.1/BlogPost.csproj.CoreCompileInputs.cache
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/obj/Debug/netcoreapp3.1/BlogPost.dll
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/obj/Debug/netcoreapp3.1/BlogPost.pdb
+/Users/JM/greenFox/C-Sharp/Classes & Objects/BlogPost/obj/Debug/netcoreapp3.1/BlogPost.genruntimeconfig.cache

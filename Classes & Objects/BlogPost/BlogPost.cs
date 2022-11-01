@@ -1,14 +1,14 @@
 ﻿using System;
 namespace BlogPost
 {
-    public class Blog
+    public class BlogPost
     {
-        string authorName;
+        public string authorName;
         string title;
         string text;
         string publishDate;
 
-        public Blog(string _authorName, string _title, string _text, string _publishDate)
+        public BlogPost(string _authorName, string _title, string _text, string _publishDate)
         {
             authorName = _authorName;
             title = _title;

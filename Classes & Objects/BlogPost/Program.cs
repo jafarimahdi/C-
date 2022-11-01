@@ -24,12 +24,28 @@ namespace BlogPost
 
 
 
-            Blog loremIpsum = new Blog("John Doe", "Lorem Ipsum", "Loremipsum dolor sit amet", "2000.05.04");
+            BlogPost loremIpsum = new BlogPost("John Doe", "Lorem Ipsum", "Loremipsum dolor sit amet", "2000.05.04");
 
-            Blog waitButWhy = new Blog("Tim Urban", "Wait but why", "a popular long-form, stick-figure-illustrated blog abuot almost everything", "2010.10.10");
+            BlogPost mahdiIpsum = new BlogPost("Jafari mahdi", "Mahdi Ipsum", "Loremipsum dolor sit amet", "2022.10.28");
 
 
+            BlogPost waitButWhy = new BlogPost("Tim Urban", "Wait but why", "a popular long-form, stick-figure-illustrated blog abuot almost everything", "2010.10.10");
+
+
+            Blog firstPublish = new Blog();
+
+            firstPublish.Add(loremIpsum);
+            firstPublish.Add(waitButWhy);
+
+            Console.WriteLine("------");
+
+            firstPublish.Delete(0);
+            //firstPublish.Delete(0);
+
+            Console.WriteLine("------");
+
+            firstPublish.Update(0, mahdiIpsum);
         }
-}
+    }
 }
 
