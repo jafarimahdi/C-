@@ -73,14 +73,15 @@ namespace Pirates
 
             Console.WriteLine($"{ourWinner} of our crew and {enemyWinner} of enemy crew won the fight");
 
+
+            // party after viktory 
             List<Pirate> winner = (ourWinner > enemyWinner) ? enemyShip.pirates : this.pirates;
             foreach (Pirate item in winner)
             {
                 item.DrinkSomeRum();
             }
 
-
-
+            // retrun the winner ship 
             if ((ourWinner > enemyWinner))
             {
                 return (Ship)this;
