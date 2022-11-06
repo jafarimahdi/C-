@@ -1,23 +1,16 @@
 ﻿<Properties StartupConfiguration="{2F0145A0-1A4D-485F-BA32-69B1688802A8}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Pirates PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Ship.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BattelApp.cs">
     <Files>
-      <File FileName="Program.cs" Line="32" Column="1" />
+      <File FileName="Program.cs" Line="35" Column="55" />
       <File FileName="Pirate.cs" Line="41" Column="87" />
-      <File FileName="Ship.cs" Line="70" Column="35" />
+      <File FileName="Ship.cs" Line="94" Column="1" />
+      <File FileName="BattelApp.cs" Line="18" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Pirates" expanded="True">
-            <Node name="Pirates" expanded="True">
-              <Node name="Ship.cs" selected="True" />
-            </Node>
+            <Node name="Pirates" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -26,5 +19,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Pirates PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

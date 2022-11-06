@@ -54,7 +54,7 @@ namespace Pirates
 
         public Ship Battel(Ship enemyShip)
         {
-            // each crew from our ship should fight with enemyShips crew ?
+            // each crew from our ship should fight with enemyShips crew
             int ourWinner = 0;
             int enemyWinner = 0;
             List<Pirate> listToLoop = (this.pirates.Count < enemyShip.pirates.Count) ? this.pirates : enemyShip.pirates;
