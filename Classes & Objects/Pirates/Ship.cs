@@ -5,43 +5,46 @@ namespace Pirates
 {
     public class Ship
     {
-        List<Pirate> pirates { get; set; }
+        List<Pirate> pirates_list { get; set; }
         Pirate[] Capitan = new Pirate[1];
 
 
         public Ship()
         {
-            pirates = new List<Pirate>() { };
+            pirates_list = new List<Pirate>() { };
+            Capitan = new Pirate[1];
+
         }
 
         public void fillShip()
         {
-            int piratCrew = new Random().Next(1, 114); // get random number for amount of crew in ship
-            for (var i = 0; i < piratCrew; i++)
+            int pirate_crew = new Random().Next(1, 114); // get random number for amount of crew in ship
+
+            for (var i = 0; i < pirate_crew; i++)
             {
                 // add crew to ship
                 Pirate newCrew = new Pirate();
-                newCrew.intoxicationOfPirate = new Random().Next(1, 5);
-                this.pirates.Add(newCrew);
+                newCrew.intoxication_Of_Pirate = new Random().Next(1, 5);
+                this.pirates_list.Add(newCrew);
 
             }
 
             this.Capitan[0] = new Pirate(); // make a capitan
 
-            Console.WriteLine($"this ship has {pirates.Count} crew and {Capitan.Length} Capitan ");
+            Console.WriteLine($"this ship has {pirates_list.Count} crew and {Capitan.Length} Capitan ");
         }
 
 
         public void shipInfo()
         {
-            int capitanIntoxication = Capitan[0].intoxicationOfPirate;
-            string capitanState = (Capitan[0].stillAlive) ? "Alive" : "Dead";
+            int capitanIntoxication = Capitan[0].intoxication_Of_Pirate;
+            string capitanState = (Capitan[0].still_Alive) ? "Alive" : "Dead";
 
             int amountOfAlivePirates = 0;
 
-            foreach (Pirate item in pirates)
+            foreach (Pirate item in pirates_list)
             {
-                if (item.stillAlive)
+                if (item.still_Alive)
                 {
                     amountOfAlivePirates++;
                 }
@@ -52,16 +55,17 @@ namespace Pirates
 
         }
 
+
         public Ship Battel(Ship enemyShip)
         {
             // each crew from our ship should fight with enemyShips crew
             int ourWinner = 0;
             int enemyWinner = 0;
-            List<Pirate> listToLoop = (this.pirates.Count < enemyShip.pirates.Count) ? this.pirates : enemyShip.pirates;
+            List<Pirate> listToLoop = (this.pirates_list.Count < enemyShip.pirates_list.Count) ? this.pirates_list : enemyShip.pirates_list;
 
             for (int i = 0; i < listToLoop.Count; i++)
             {
-                if (pirates[i].Brawl(enemyShip.pirates[i]))
+                if (pirates_list[i].Brawl(enemyShip.pirates_list[i]))
                 {
                     ourWinner++;
                 }
@@ -75,7 +79,7 @@ namespace Pirates
 
 
             // party after viktory 
-            List<Pirate> winner = (ourWinner > enemyWinner) ? enemyShip.pirates : this.pirates;
+            List<Pirate> winner = (ourWinner > enemyWinner) ? enemyShip.pirates_list : this.pirates_list;
             foreach (Pirate item in winner)
             {
                 item.DrinkSomeRum();

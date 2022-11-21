@@ -1,25 +1,31 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace Pirates
 {
     public class BattelApp
     {
+        public List<Ship> listOfShip;
+
         public BattelApp()
         {
+            listOfShip = new List<Ship>();
         }
 
-        Ship firestShip = new Ship();
+        public void addShip(Ship newShip)
+        {
+            listOfShip.Add(newShip);
+        }
 
-        firestShip.fillShip();
-            firestShip.shipInfo();
-            Console.WriteLine("-------");
+        public void battelShips(BattelApp anotherBattel)
+        {
+            for (int i = 0; i < listOfShip.Count; i++)
+            {
+                listOfShip[i].Battel(anotherBattel.listOfShip[i]); 
+            }
+        }
 
-            Ship secoundShip = new Ship();
-        secoundShip.fillShip();
-            secoundShip.shipInfo();
 
-            Console.WriteLine("-------");
-
-            firestShip.Battel(secoundShip).shipInfo();
     }
 }
 

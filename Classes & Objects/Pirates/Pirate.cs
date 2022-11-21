@@ -3,8 +3,8 @@ namespace Pirates
 {
     public class Pirate
     {
-        public int intoxicationOfPirate = 0;
-        public bool stillAlive = true;
+        public int intoxication_Of_Pirate = 0;
+        public bool still_Alive = true;
 
         public Pirate()
         {
@@ -12,34 +12,34 @@ namespace Pirates
 
         public void DrinkSomeRum()
         {
-            if (!stillAlive)
+            if (!still_Alive)
             {
                 Console.WriteLine("he's dead");
             }
             else
             {
-                this.intoxicationOfPirate++;
+                this.intoxication_Of_Pirate++;
             }
         }
 
 
         public void HowsItGoingMate()
         {
-            if (!stillAlive)
+            if (!still_Alive)
             {
                 Console.WriteLine("he's dead");
             }
             else
             {
 
-                if (this.intoxicationOfPirate < 4)
+                if (this.intoxication_Of_Pirate < 4)
                 {
                     Console.WriteLine("Pour me anudder!");
                 }
                 else
                 {
                     Console.WriteLine("Arghh, I'ma Pirate. How d'ya d'ink its goin?");
-                    this.intoxicationOfPirate = 0;
+                    this.intoxication_Of_Pirate = 0;
                 }
             }
         }
@@ -47,29 +47,29 @@ namespace Pirates
 
         public bool Brawl(Pirate anotehrPirate)
         {
-            // 1- check if the pirat is alive
-            if (!stillAlive)
+                                            // 1- check if the pirat is alive
+            if (!this.still_Alive || !anotehrPirate.still_Alive)
             {
-                Console.WriteLine("he's dead");
+                Console.WriteLine("Pirat is dead and not able to fight ");
                 return false;
             }
             else
             {
                 // 2- check if the pirate not passed out 
-                if ((this.intoxicationOfPirate < 4 && this.intoxicationOfPirate > 0) &&
-                    (anotehrPirate.intoxicationOfPirate < 4 && anotehrPirate.intoxicationOfPirate > 0))
+                if ((this.intoxication_Of_Pirate < 4 && this.intoxication_Of_Pirate > 0) &&
+                    (anotehrPirate.intoxication_Of_Pirate < 4 && anotehrPirate.intoxication_Of_Pirate > 0))
                 {
-                    if (this.intoxicationOfPirate == anotehrPirate.intoxicationOfPirate)
+                    if (this.intoxication_Of_Pirate == anotehrPirate.intoxication_Of_Pirate)
                     {
                         Console.WriteLine("both passed out");
-                        this.intoxicationOfPirate = 0;
-                        anotehrPirate.intoxicationOfPirate = 0;
+                        this.intoxication_Of_Pirate = 0;
+                        anotehrPirate.intoxication_Of_Pirate = 0;
                         return false;
                     }
                     // 3- fight start here
-                    else if (this.intoxicationOfPirate < anotehrPirate.intoxicationOfPirate)
+                    else if (this.intoxication_Of_Pirate < anotehrPirate.intoxication_Of_Pirate)
                     {
-                        Console.WriteLine($"our pirate was the winner {this.intoxicationOfPirate} ");
+                        Console.WriteLine($"our pirate was the winner {this.intoxication_Of_Pirate} ");
                         return true;
                     }
                     else
@@ -89,7 +89,7 @@ namespace Pirates
 
         public void Die()
         {
-            this.stillAlive = false;
+            this.still_Alive = false;
             Console.WriteLine("one person passed a way!!");
         }
     }
