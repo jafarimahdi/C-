@@ -1,0 +1,5 @@
+A:\gitHub\C_Sharp\Project\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.csproj.AssemblyReference.cache
+A:\gitHub\C_Sharp\Project\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+A:\gitHub\C_Sharp\Project\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.AssemblyInfoInputs.cache
+A:\gitHub\C_Sharp\Project\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.AssemblyInfo.cs
+A:\gitHub\C_Sharp\Project\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.csproj.CoreCompileInputs.cache

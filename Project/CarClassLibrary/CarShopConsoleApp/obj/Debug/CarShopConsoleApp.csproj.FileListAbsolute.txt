@@ -1,0 +1,11 @@
+A:\gitHub\C_Sharp\Project\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.exe.config
+A:\gitHub\C_Sharp\Project\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.exe
+A:\gitHub\C_Sharp\Project\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.pdb
+A:\gitHub\C_Sharp\Project\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csproj.AssemblyReference.cache
+A:\gitHub\C_Sharp\Project\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csproj.SuggestedBindingRedirects.cache
+A:\gitHub\C_Sharp\Project\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csproj.CoreCompileInputs.cache
+A:\gitHub\C_Sharp\Project\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.exe
+A:\gitHub\C_Sharp\Project\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.pdb
+A:\gitHub\C_Sharp\Project\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarClassLibrary2.dll
+A:\gitHub\C_Sharp\Project\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarClassLibrary2.pdb
+A:\gitHub\C_Sharp\Project\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csproj.CopyComplete

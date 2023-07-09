@@ -1,0 +1,6 @@
+A:\gitHub\C_Sharp\Project\CarClassLibrary2\bin\Debug\CarClassLibrary2.dll
+A:\gitHub\C_Sharp\Project\CarClassLibrary2\bin\Debug\CarClassLibrary2.pdb
+A:\gitHub\C_Sharp\Project\CarClassLibrary2\obj\Debug\CarClassLibrary2.csproj.AssemblyReference.cache
+A:\gitHub\C_Sharp\Project\CarClassLibrary2\obj\Debug\CarClassLibrary2.csproj.CoreCompileInputs.cache
+A:\gitHub\C_Sharp\Project\CarClassLibrary2\obj\Debug\CarClassLibrary2.dll
+A:\gitHub\C_Sharp\Project\CarClassLibrary2\obj\Debug\CarClassLibrary2.pdb
