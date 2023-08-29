@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "enyVoWcLzXHJZ0kNp+bnBcQX1WEqGRaq4yDXt2boB3ZjMG0f6EwIa/MAiFACB9cCXyvORj7oM5qETfqFbs6UXg==",
+  "dgSpecHash": "7TwFseNnK88gIBEEkJnRZ00lyTO0IIrySIqFnJqnGOSTdzO2d0KIEmeT4W7yxOp19+U2oT6WRsN8yIT6ORLe4w==",
   "success": true,
   "projectFilePath": "A:\\gitHub\\C_Sharp\\Project\\PhoneAiTechAdvisor\\PhoneAiTechAdvisor\\PhoneAiTechAdvisor.csproj",
   "expectedPackageFiles": [
@@ -17,11 +17,7 @@
     "C:\\Users\\Jafar\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
     "C:\\Users\\Jafar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Jafar\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\Jafar\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\Jafar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
-    "C:\\Users\\Jafar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
-    "C:\\Users\\Jafar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
-    "C:\\Users\\Jafar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+    "C:\\Users\\Jafar\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
